@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procrastination&#34;, &#34;Laziness on bzzzt</title>
+    <link>//localhost:1313/tags/procrastination-laziness/</link>
+    <description>Recent content in Procrastination&#34;, &#34;Laziness on bzzzt</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Aug 2025 17:34:02 +0800</lastBuildDate><atom:link href="//localhost:1313/tags/procrastination-laziness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Procrastination Sucks</title>
+      <link>//localhost:1313/posts/firstpost/</link>
+      <pubDate>Sun, 03 Aug 2025 17:34:02 +0800</pubDate>
+      
+      <guid>//localhost:1313/posts/firstpost/</guid>
+      <description></description>
+      <content></content>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>En on A Femboy Bee</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content in En on A Femboy Bee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Aug 2025 16:59:21 +0800</lastBuildDate><atom:link href="//localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/en/about/</link>
+      <pubDate>Sun, 03 Aug 2025 16:51:20 +0800</pubDate>
+      
+      <guid>//localhost:1313/en/about/</guid>
+      <description>&lt;h1 id=&#34;hello-world-mups-here--w-&#34;&gt;Hello World! Mups here -w-&lt;/h1&gt;
+&lt;p&gt;You can either call me Mups, Mupsie, or Muppie, whatever suits you!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;likes&#34;&gt;Likes&lt;/h1&gt;
+&lt;p&gt;123&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;hello-world-mups-here--w-&#34;&gt;Hello World! Mups here -w-&lt;/h1&gt;
+&lt;p&gt;You can either call me Mups, Mupsie, or Muppie, whatever suits you!&lt;/p&gt;
+&lt;hr&gt;
+&lt;h1 id=&#34;likes&#34;&gt;Likes&lt;/h1&gt;
+&lt;p&gt;123&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
