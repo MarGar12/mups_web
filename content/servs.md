@@ -4,6 +4,7 @@ draft = false
 title = 'Stuff I host/manage :3'
 +++
 # Under my Domain
+
 ---
 | Service | Link |
 | --------- | ---- |
@@ -11,6 +12,7 @@ title = 'Stuff I host/manage :3'
 | [CatAsk](https://catask.mystie.dev/) | https://ask.muppie.xyz |
 
 # Game Servers
+
 ---
 
 # [Australia] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
@@ -28,7 +30,8 @@ A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehr
 
 # [Australia] Minecraft :: Articraft Season 6.1 (1.21.1)
 ## IP: `mc.artifyber.xyz`
-### Discord membership verification needed! Join my server here! (link)
+### Discord membership verification needed! Join my server [here!](/about#socials)
+
 > Screenshots will be added soon
 
 A NeoForge modded Minecraft server, hosting for Artifyber's community! Mods may also change from time to time. When a new season comes, the world is reset and the game version may change and the mods will be changed.

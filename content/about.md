@@ -6,17 +6,21 @@ cover = "/images/main/Untitled6_20250705111846.png"
 coverCaption = "Droobert Silligan, a Gay Femboy Bee! Made by me >w<"
 +++
 # Hello World! Mups here -w-
+
 You can either call me Mups, Mupsie, or Muppie, whatever suits you! I'm a Gay Filipino boy, who likes and wants to be a cutie \uwu/! I use He/Him pronouns, and I am a really homosexual boy >w>. I don't appear as a Femboy but I consider myself one. I'm also pretty soft-hearted and sensitive so please be patient and treat me gently. I promise im really nice and kind if you are to me! I also possibly am AuDHD.
 
 # Likes
+
 ---
 To be honest, I like too many things lmao, but usually I really like cute things, affection, travelling, techy stuff, furries, music, boys, and femboys :3c Though there are also more obscure things I like, like elevators, trains, etc.
 
 # Dislikes
+
 ---
 Usually sensitive topics, but its not usually consistent on what I think is sensitive or not. Better if you ask me about it. But I definitely do not like horror content, gore (except cartoony), toxic people, rude/harsh jokes (I may not understand or like it) and cruelty.
 
 # Socials
+
 ---
 Here are my socials! Feel free to follow me in any of these :3 The Platform and Handle/Username category are clickable
 | Platform | Handle/Username | Status |
@@ -33,6 +37,7 @@ Here are my socials! Feel free to follow me in any of these :3 The Platform and 
 | [YouTube](https://www.youtube.com) | [mushe58](https://www.youtube.com/channel/UCyFNLmPw5MS3VLLm-WIkdfw) | Inactive, Unknown when ill make content again |
 
 # Contacts
+
 ---
 Heres my contacts! Feel free to say hi! Just please don't be weird
 | Platform | Handle / User | Status |
@@ -42,6 +47,7 @@ Heres my contacts! Feel free to say hi! Just please don't be weird
 | Revolt | MinitheBunnyBoy#6354 | Inactive |
 
 # Others
+
 ---
 Public GPG Key
 ```
