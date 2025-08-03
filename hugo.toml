@@ -76,7 +76,7 @@ title = "bzzzt"
   [languages.en.params]
     languageName = "English"
     title = "A Femboy Bee"
-    subtitle = "A simple, retro theme for Hugo"
+    subtitle = "You're telling me a bee made this website?"
     owner = "Mups"
     keywords = ""
     copyright = "🐝 Bee composed page :: Hosted with Github Pages"
