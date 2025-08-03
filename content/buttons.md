@@ -13,6 +13,6 @@ The theme does this for some reason lol
 
 [![floofcompany](/images/buttons/free.gif)](https://freeplay.floof.company/)
 
-[![mystie](/images/buttons/mystie_btn.png)](https://mystie.dev/)
+[![mystie](/images/buttons/mystie_btn.png)](https://kyropy.neocities.org/mystie.dev)
 
 [![mebi](/images/buttons/mebi_county.gif)](https://afellowu.neocities.org/) 
