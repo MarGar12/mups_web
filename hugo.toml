@@ -15,7 +15,7 @@ title = "bzzzt"
   themeColor = "pink"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 5
+  showMenuItems = 6
 
   # show selector to switch language
   showLanguageSelector = false
@@ -123,6 +123,10 @@ title = "bzzzt"
         identifier = "source"
         name = "Page Source Code"
         url = "https://github.com/MarGar12/mups_web"
+      [[languages.en.menu.main]]
+        identifier = "buttons"
+        name = "Site Buttons"
+        url = "/buttons"
 
 # [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
