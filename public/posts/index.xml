@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on bzzzt</title>
+    <title>Posts on A Femboy Bee</title>
     <link>//localhost:1313/posts/</link>
-    <description>Recent content in Posts on bzzzt</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Posts on A Femboy Bee</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Aug 2025 17:34:02 +0800</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Aug 2025 17:34:02 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Procrastination Sucks</title>
       <link>//localhost:1313/posts/firstpost/</link>
       <pubDate>Sun, 03 Aug 2025 17:34:02 +0800</pubDate>
-      
       <guid>//localhost:1313/posts/firstpost/</guid>
       <description>&lt;p&gt;Screw you procrastination! God, you really held me back for so long on making my website- ahem. Anyways! Yayyy I finally have my own website &amp;gt;w&amp;lt;!! Getting off &lt;a href=&#34;https://straw.page&#34;&gt;straw.page&lt;/a&gt; now as im able to get more customizations and stuff! Though this isn&amp;rsquo;t the most for now, im tired lol. The straw.page may be taken down at some point but im lazy to update it right now. The stuff I host is also in here so yeye! Thanks to Linerly for motivating me enough to finally make my own website! This stuff is powered by Hugo btw, a static site generator.&lt;/p&gt;</description>
-      <content>&lt;p&gt;Screw you procrastination! God, you really held me back for so long on making my website- ahem. Anyways! Yayyy I finally have my own website &amp;gt;w&amp;lt;!! Getting off &lt;a href=&#34;https://straw.page&#34;&gt;straw.page&lt;/a&gt; now as im able to get more customizations and stuff! Though this isn&amp;rsquo;t the most for now, im tired lol. The straw.page may be taken down at some point but im lazy to update it right now. The stuff I host is also in here so yeye! Thanks to Linerly for motivating me enough to finally make my own website! This stuff is powered by Hugo btw, a static site generator.&lt;/p&gt;
-</content>
     </item>
-    
   </channel>
 </rss>

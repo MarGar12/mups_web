@@ -46,6 +46,13 @@ Heres my contacts! Feel free to say hi! Just please don't be weird
 | Telegram | mupsie54 | Barely Active |
 | Revolt | MinitheBunnyBoy#6354 | Inactive |
 
+
+# My OC refs
+
+---
+{{< image src="/images/arts/ocs/Untitled4_20250705003452.png" alt="Droobert Silligan" position="center" style="border-radius: 8px;" >}}
+{{< image src="/images/arts/ocs/Untitled84_20250713180749.png" alt="Tooki Sol" position="center" style="border-radius: 8px;" >}}
+
 # Others
 
 ---
