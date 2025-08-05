@@ -27,7 +27,7 @@ Here are my socials! Feel free to follow me in any of these :3 The Platform and 
 | ---------- | --------------------------- | ------- |
 | [Bluesky](https://bsky.app) | [@muppie.xyz](https://bsky.app/profile/did:plc:ap2utyabfsnt7tkdnizsvdvw) | Active, Main place to post arts |
 | Discord Server (Articraft) | https://discord.gg/Af4FHzw5bx | Semi-Active, depends on activity, join here to play Articraft!
-| [Fediverse (Main)](https://social.muppie.xyz) | [@mups@social.muppie.xyz](https://social.muppie.xyz/@mups) | Active, Main place to post arts and yap |
+| [Fediverse (Main)](https://gay.muppie.xyz) | [@mups@gay.muppie.xyz](https://gay.muppie.xyz/@mups) | Active, Main place to post arts and yap |
 | [Fediverse (Alt)](https://the.gayest.dev) | [@mushe@the.gayest.dev](https://the.gayest.dev/@mushe) | Barely-Active, Alt for Fedi |
 | [Github](https://github.com) | [MarGar12](https://github.com/MarGar12) | Semi-Active |
 | [Roblox](https://www.roblox.com) | [@Mups_58](https://www.roblox.com/users/7136128116/profile) | Barely-Active, I play Roblox from time to time
