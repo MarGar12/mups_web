@@ -8,7 +8,7 @@ title = 'Stuff I host/manage :3'
 ---
 | Service | Link |
 | --------- | ---- |
-| [Iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp.net) (Fediverse) | https://social.muppie.xyz |
+| [Sharkey](https://activitypub.software/TransFem-org/Sharkey/) (Fediverse) | https://gay.muppie.xyz |
 | [CatAsk](https://catask.mystie.dev/) | https://ask.muppie.xyz |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | https://vault.muppie.xyz |
 
