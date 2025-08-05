@@ -109,7 +109,7 @@ pagination.pagerSize = 5
         url = "https://ask.muppie.xyz/"
       [[languages.en.menu.main]]
         identifier = "hoststuff"
-        name = "Servers by Me"
+        name = "Services"
         url = "/servs"
       [[languages.en.menu.main]]
         identifier = "source"

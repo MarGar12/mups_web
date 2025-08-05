@@ -10,6 +10,7 @@ title = 'Stuff I host/manage :3'
 | --------- | ---- |
 | [Iceshrimp](https://iceshrimp.dev/iceshrimp/iceshrimp.net) (Fediverse) | https://social.muppie.xyz |
 | [CatAsk](https://catask.mystie.dev/) | https://ask.muppie.xyz |
+| [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | https://vault.muppie.xyz |
 
 # Game Servers
 
