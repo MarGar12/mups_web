@@ -2,14 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/fanarts/</loc>
-    <lastmod>2025-08-04T15:01:54+08:00</lastmod>
-  </url><url>
-    <loc>/arts/</loc>
-    <lastmod>2025-08-03T21:14:26+08:00</lastmod>
-  </url><url>
-    <loc>/servs/</loc>
-    <lastmod>2025-08-03T18:07:30+08:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-08-03T17:34:02+08:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
     <lastmod>2025-08-03T17:34:02+08:00</lastmod>
@@ -17,13 +11,15 @@
     <loc>/posts/firstpost/</loc>
     <lastmod>2025-08-03T17:34:02+08:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-08-03T16:59:21+08:00</lastmod>
-  </url><url>
     <loc>/about/</loc>
-    <lastmod>2025-08-03T16:51:20+08:00</lastmod>
+  </url><url>
+    <loc>/arts/</loc>
   </url><url>
     <loc>/categories/</loc>
+  </url><url>
+    <loc>/fanarts/</loc>
+  </url><url>
+    <loc>/servs/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

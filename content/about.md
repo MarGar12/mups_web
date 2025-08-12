@@ -1,5 +1,4 @@
 +++
-date = '2025-08-03T16:51:20+08:00'
 draft = false
 title = 'About Me'
 cover = "/images/main/Untitled6_20250705111846.png"
@@ -22,7 +21,7 @@ Usually sensitive topics, but its not usually consistent on what I think is sens
 # Socials
 
 ---
-Here are my socials! Feel free to follow me in any of these :3 The Platform and Handle/Username category are clickable
+Here are my socials! Feel free to follow me in any of these :3
 | Platform | Handle/Username | Status |
 | ---------- | --------------------------- | ------- |
 | [Bluesky](https://bsky.app) | [@muppie.xyz](https://bsky.app/profile/did:plc:ap2utyabfsnt7tkdnizsvdvw) | Active, Main place to post arts |
@@ -39,12 +38,13 @@ Here are my socials! Feel free to follow me in any of these :3 The Platform and 
 # Contacts
 
 ---
-Heres my contacts! Feel free to say hi! Just please don't be weird
+Here's my contacts! Feel free to say hi! Just please don't be weird
 | Platform | Handle / User | Status |
 | ---------- | ---------------- | ------- |
 | Discord | muppie54 | Active |
-| Telegram | mupsie54 | Barely Active |
 | Revolt | MinitheBunnyBoy#6354 | Inactive |
+| Signal | mupsie.68 | Active |
+| Telegram | mupsie54 | Barely Active |
 
 
 # My OC refs

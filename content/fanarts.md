@@ -1,5 +1,4 @@
 +++
-date = '2025-08-04T15:01:54+08:00'
 draft = false
 title = 'Fan Arts'
 +++

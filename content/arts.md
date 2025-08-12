@@ -1,5 +1,4 @@
 +++
-date = '2025-08-03T21:14:26+08:00'
 draft = false
 title = 'Arts'
 +++

@@ -1,5 +1,4 @@
 +++
-date = '2025-08-03T16:59:21+08:00'
 draft = false
 framed = true
 +++
