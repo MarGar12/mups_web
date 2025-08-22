@@ -4,9 +4,9 @@ title = 'About Me'
 cover = "/images/main/Untitled6_20250705111846.png"
 coverCaption = "Droobert Silligan, a Gay Femboy Bee! Made by me >w<"
 +++
-# Hello World! Mups here -w-
+# My name's Mups!
 
-You can either call me Mups, Mupsie, or Muppie, whatever suits you! I'm a Gay Filipino boy, who likes and wants to be a cutie \uwu/! I use He/Him pronouns, and I am a really homosexual boy >w>. I don't appear as a Femboy but I consider myself one. I'm also pretty soft-hearted and sensitive so please be patient and treat me gently. I promise im really nice and kind if you are to me! I also possibly am AuDHD.
+You can either call me Mups, Mupsie, or Muppie, whatever suits you! I'm a Gay Filipino boy, who likes and wants to be a cutie uwu! I use He/Him pronouns, and I am a really homosexual boy >w>. I don't appear as a Femboy but I consider myself one. I'm also pretty soft-hearted and sensitive so please be patient and treat me gently. I promise im really nice and kind if you are to me! I also possibly am AuDHD.
 
 # Likes
 

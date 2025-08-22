@@ -6,6 +6,7 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| Kanopy by [@sonikkujam.bsky.social](https://bsky.app/profile/did:plc:272m7xsn2u3g5peijglcoms2) | ![kanopy](/images/arts/Untitled127_20250813182630.png) Kanopy standing on a floating transparent platform while holding his hammer, winking at the viewer. The background is supposedly space themed |
 | Mr. Triangle by ? and Simon by [@totallyappa.bsky.social](https://bsky.app/profile/did:plc:gb6372b3jwbi6ki4q4iqwrjd)| ![mr.triangle_n_simon](/images/arts/Untitled104_20250726220428.png) Grayscale Doodle of Mr. Triangle and Simon. |
 | Dummie the Testing Dummy by [@fav33.bsky.social](https://bsky.app/profile/did:plc:h6hxorltyszwa372xrry4eg2) | ![Dummie](/images/arts/Untitled87_20250719214304.png) Dummie shyly looking at the viewer sitting on ice. He is also shivering a little bit due to the icy environment. |
 | blue.. :: Pocky by [@bun0nthemoon.bsky.social](https://bsky.app/profile/did:plc:wdcja7iqtsuvzegi3sib4lvu) | ![Pocky](/images/arts/Untitled1_20250621233432.png) Pocky is sitting in front of some gray pillar. It's a dark blue open field world thing that I just felt like doing :p |

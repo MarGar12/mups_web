@@ -2,10 +2,12 @@
 draft = false
 framed = true
 +++
-# **Welcome to my site :3**
+# **Hello World \\(>w<)/**
 
 This is where I put in my stuffs and things.
-Idk what else to say lol. Feel free to explore! 
+Idk what else to say lol. Feel free to explore!
 
 # **Buttons!**
 {{< buttons >}}
+
+Website last updated: 2025-08-22 (yyyy-MM-dd)

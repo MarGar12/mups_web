@@ -11,13 +11,14 @@ title = 'Stuff I host/manage :3'
 | [CatAsk](https://catask.mystie.dev/) | https://ask.muppie.xyz |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | https://vault.muppie.xyz |
 | [HFS](https://rejetto.com/hfs/) (File Server) | https://files.muppie.xyz | 
+| [Syncthing](https://syncthing.net/) | https://sync.muppie.xyz |
 
 # Game Servers
 
 ---
 
 # [US-E] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
-## IP: `mc.artifyber.xyz:25568`
+## IP: `mc.artifyber.xyz:25568` [Inactive]
 Groggy Gale (**MAPA3**)
 ![Groggy Gale](/images/game/srb20050.png "Groggy Gale")
 
