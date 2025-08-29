@@ -1,0 +1,32 @@
+<figure class="gallery-item">
+  {{ $path := .Get "src" }}
+  {{ $original := resources.Get $path }}
+  {{ $scaled := $original.Resize "1920x webp" }}
+
+  <!-- Link to the original image (opens in a new tab) -->
+  <a href="{{ $original.Permalink }}" target="_blank">
+    <img src="{{ $scaled.RelPermalink }}" alt="{{ .Get "alt" }}" loading="lazy" />
+    <p>
+      {{ if eq (.Get "tool") "Blender" }}
+        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="Blender Icon" class="tool-icon">
+      {{ else if eq (.Get "tool") "GIMP" }}
+        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP Icon" class="tool-icon">
+      {{ else if eq (.Get "tool") "Krita" }}
+        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" alt="Krita Icon" class="tool-icon">
+      {{ else if eq (.Get "tool") "Inkscape" }}
+        <img class="icon" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" alt="Inkscape Icon" class="tool-icon">
+      {{ end }}
+      {{ .Get "tool" }}
+    </p>
+  </a>
+</figure>
+
+<style>
+gallery-item {
+    -webkit-column-break-inside: avoid;
+    break-inside: avoid;
+    page-break-inside: avoid;
+    padding-bottom: 15px;
+    text-align: center;
+}
+</style>

@@ -18,7 +18,7 @@ title = 'Stuff I host/manage :3'
 ---
 
 # [US-E] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
-## IP: `mc.artifyber.xyz:25568` [Inactive]
+## IP: `mc.artifyber.xyz:5029` [Inactive]
 Groggy Gale (**MAPA3**)
 ![Groggy Gale](/images/game/srb20050.png "Groggy Gale")
 
@@ -31,7 +31,7 @@ Short Robotnik Park Gameplay (**MAPAA**)
 A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehrealsalt.2081/) from the [SRB2](https://srb2.org) community! The server features 21 different Lua and Character mods. The modlist may change from time to time.
 
 # [US-E] Minecraft :: Articraft Season 6.1 (1.21.1)
-## IP: `mc.artifyber.xyz`
+## IP: `mc.artifyber.xyz:25566` [Under Maintenance]
 ### Discord membership verification needed! Join my server [here!](/about#socials)
 
 Screenshots by Linerly!

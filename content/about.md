@@ -4,9 +4,9 @@ title = 'About Me'
 cover = "/images/main/Untitled6_20250705111846.png"
 coverCaption = "Droobert Silligan, a Gay Femboy Bee! Made by me >w<"
 +++
-# My name's Mups!
+# My name's Mups! (He/Him)
 
-You can either call me Mups, Mupsie, or Muppie, whatever suits you! I'm a Gay Filipino boy, who likes and wants to be a cutie uwu! I use He/Him pronouns, and I am a really homosexual boy >w>. I don't appear as a Femboy but I consider myself one. I'm also pretty soft-hearted and sensitive so please be patient and treat me gently. I promise im really nice and kind if you are to me! I also possibly am AuDHD.
+You can either call me Mups, Mupsie, or Muppie, whatever suits you! I'm a Gay Filipino boy, who has ADHD and Depression, but likes and wants to be a cutie uwu! I don't appear as a Femboy but I consider myself one. I'm also pretty soft-hearted and sensitive so please be patient and treat me gently. I promise im really nice and kind if you are to me!
 
 # Likes
 
@@ -50,9 +50,8 @@ Here's my contacts! Feel free to say hi! Just please don't be weird
 # My OC refs
 
 ---
-{{< image src="/images/arts/ocs/Untitled4_20250705003452.png" alt="Droobert Silligan" position="center" style="border-radius: 8px;" >}}
-{{< image src="/images/arts/ocs/Untitled84_20250713180749.png" alt="Tooki Sol" position="center" style="border-radius: 8px;" >}}
-
+![Droobert Silligan](/images/arts/ocs/Untitled4_20250705003452.png)
+![Tooki Sol](/images/arts/ocs/Untitled84_20250713180749.png)
 # Others
 
 ---

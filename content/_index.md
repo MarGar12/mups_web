@@ -10,4 +10,4 @@ Idk what else to say lol. Feel free to explore!
 # **Buttons!**
 {{< buttons >}}
 
-Website last updated: 2025-08-22 (yyyy-MM-dd)
+Website last updated: 2025-08-29 (yyyy-MM-dd)
