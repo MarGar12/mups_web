@@ -48,6 +48,9 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/blowfl1.png" alt="Traditional doodle of Qualiflower and Droobert, they both look confused">}}
 {{< figure src="/images/fanarts/Droobert/Screenshots_2025-08-26-06-15-05.png" alt="Droobert winks at someone while resting his hands at something">}}
 {{< figure src="/images/fanarts/Droobert/Screenshots_2025-08-26-06-20-47.png" alt="Droobert holding and looking at his own collar bell">}}
+{{< figure src="/images/fanarts/Droobert/Screenshots_2025-09-01-20-39-04.png" alt="Droobert and Qual together">}}
+{{< figure src="/images/fanarts/Droobert/0903251716.jpg" alt="'Get Better Soon' said by Qual as I wasn't feeling well this time. Qual also hugs sobbing Droobert. There are also other doodles">}}
+{{< figure src="/images/fanarts/Droobert/0905251843.jpg" alt="Droobert, Qual and foods. Also vanilla">}}
 
 <!--- Sierra -->
 {{< figure src="/images/fanarts/Droobert/droobert_HiSierra.png" alt="Droobert waving to the viewer!">}}
@@ -55,11 +58,13 @@ Credits are in the code but a list of people who have drawn me will be listed on
 <!--- Neffy (https://bsky.app/profile/did:plc:a573b2gdfrsugwfiymlr3cei) -->
 {{< figure src="/images/fanarts/Droobert/Screenshot_20250605-222008_ibisPaint_X.jpg" alt="Droobert high on fent">}}
 {{< figure src="/images/fanarts/Droobert/Screenshot_20250605-224416_ibisPaint_X.jpg" alt="Droobert high on that zaza">}}
+{{< figure src="/images/fanarts/Droobert/419_sin_titulo_20250830093228.png" alt="Droobert driving quickly on a pickup truck">}}
 
 <!--- Mebiae (https://bsky.app/profile/mebiae.bsky.social)-->
 {{< figure src="/images/fanarts/Droobert/a1b1bb22-b6a0-4ce2-a0ee-3b1164adfaa6.png" alt="Mini Droobert sitting and looking at the viewer">}}
 {{< figure src="/images/fanarts/Droobert/IMG_0730.png" alt="Droobert standing up with one of his knees raised">}}
 {{< figure src="/images/fanarts/Droobert/IMG_0815.png" alt="Droobert blepping at the viewer and looking cute, appearing on the bottom right">}}
+{{< figure src="/images/fanarts/Droobert/IMG_0855.png" alt="Mebi patting Droobert, saying 'ur so squsihy..', 'everything will be ok..'">}}
 
 <!--- VoltthefOx (https://bsky.app/profile/voltdrawssomestuff.bsky.social) -->
 {{< figure src="/images/fanarts/Droobert/muppie54_art_trade.png" alt="Droobert winking at the viewer">}}
@@ -69,6 +74,10 @@ Credits are in the code but a list of people who have drawn me will be listed on
 
 <!--- TV Enthusiast (https://bsky.app/profile/sillytventhusiast.bsky.social) -->
 {{< figure src="/images/fanarts/Droobert/90723879-a395-4516-8617-5b83c71c52d3.png" alt="Droobert smiling with both of his arms raised on the air">}}
+
+<!--- Tropie (https://bsky.app/profile/did:plc:bnyd2mpexdpydrd7fcya3yk7) -->
+{{< figure src="/images/fanarts/Droobert/Screenshot_2025-05-27-16-42-57-253_com.miui.creation.png" alt="Droobert and mini Droobert">}}
+{{< figure src="/images/fanarts/Droobert/Screenshot_2025-06-03-17-08-17-018_com.miui.creation.png" alt="Droobert and Bee Mel sitting together happily">}}
 
 {{</ gallery >}}
 
@@ -82,4 +91,5 @@ Sierra |
 [Mebiae](https://bsky.app/profile/mebiae.bsky.social) |
 [VoltthefOx](https://bsky.app/profile/voltdrawssomestuff.bsky.social) |
 [Artifyber](https://bsky.app/profile/artifyber.xyz) |
-[TV Enthusiast](https://bsky.app/profile/sillytventhusiast.bsky.social)
+[TV Enthusiast](https://bsky.app/profile/sillytventhusiast.bsky.social) |
+[Tropie](https://bsky.app/profile/did:plc:bnyd2mpexdpydrd7fcya3yk7) |

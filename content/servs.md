@@ -15,8 +15,7 @@ title = 'Stuff I host/manage :3'
 
 # Game Servers
 
----
-
+<!-- Will put back once I get a proper SRB2 host machine running
 # [US-E] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
 ## IP: `mc.artifyber.xyz:5029` [Inactive]
 Groggy Gale (**MAPA3**)
@@ -29,14 +28,15 @@ Short Robotnik Park Gameplay (**MAPAA**)
 ![Gameplay](/images/game/srb20029.gif "A Short GIF of me playing Robotnik Park as Dummie in the server.")
 
 A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehrealsalt.2081/) from the [SRB2](https://srb2.org) community! The server features 21 different Lua and Character mods. The modlist may change from time to time.
-
-# [US-E] Minecraft :: Articraft Season 6.1 (1.21.1)
-## IP: `mc.artifyber.xyz:25566` [Under Maintenance]
+--->
+# [US-E] Minecraft :: Articraft Season 7 (1.21.1)
+## IP: `147.185.221.29:41834`
 ### Discord membership verification needed! Join my server [here!](/about#socials)
 
-Screenshots by Linerly!
-![Spawn](/images/game/2025-08-06_20.10.45.png)
-![Spawn2](/images/game/2025-08-06_20.10.20.png)
-More Screenshots soon... when im not lazy :P
+![Spawn](/images/game/Minecraft/s7/2025-09-08_16.45.01.png)
+![Spawn2](/images/game/Minecraft/s7/2025-09-08_16.46.36.png)
+![Spawn3](/images/game/Minecraft/s7/2025-09-08_16.46.42.png)
+![Spawn4](/images/game/Minecraft/s7/2025-09-08_16.46.47.png)
+![Spawn5](/images/game/Minecraft/s7/2025-09-08_16.47.02.png)
 
 A NeoForge modded Minecraft server, hosting for Artifyber's community! Mods may also change from time to time. When a new season comes, the world is reset and the game version may change and the mods will be changed.

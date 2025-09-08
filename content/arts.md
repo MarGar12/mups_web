@@ -6,6 +6,7 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| Nutlet by [@koolaruni.bsky,social](https://bsky.app/profile/did:plc:p65w2zebgm4262w2brtjqrzb) | ![nutlet](/images/arts/Untitled128_20250907221056.png) A basic background is doodled, slightly transparent to be gray. 2 Nutlets are drawn, one sleeping on the ground and another where Droobert's paws are presenting a Nutlet. He looks really happy being held! |
 | Kanopy by [@sonikkujam.bsky.social](https://bsky.app/profile/did:plc:272m7xsn2u3g5peijglcoms2) | ![kanopy](/images/arts/Untitled127_20250813182630.png) Kanopy standing on a floating transparent platform while holding his hammer, winking at the viewer. The background is supposedly space themed |
 | Mr. Triangle by ? and Simon by [@totallyappa.bsky.social](https://bsky.app/profile/did:plc:gb6372b3jwbi6ki4q4iqwrjd)| ![mr.triangle_n_simon](/images/arts/Untitled104_20250726220428.png) Grayscale Doodle of Mr. Triangle and Simon. |
 | Dummie the Testing Dummy by [@fav33.bsky.social](https://bsky.app/profile/did:plc:h6hxorltyszwa372xrry4eg2) | ![Dummie](/images/arts/Untitled87_20250719214304.png) Dummie shyly looking at the viewer sitting on ice. He is also shivering a little bit due to the icy environment. |
