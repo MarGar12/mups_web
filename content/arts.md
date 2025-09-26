@@ -6,6 +6,10 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| I remember your Deltarunes... | ![deltarunes](/images/arts/Untitled131_20250914200058.png) If my OCs were in Deltarune |
+| Emerald (My take on Deltarune's Tenna's C3 whatever) | ![emeralds](/images/arts/Untitled129_20250912224016.png) Instead of it being a Zelda thing, its a whole Sonic like game|
+| Liphy by [@liphyrus.bsky.social](https://bsky.app/profile/did:plc:qoobr3xsn5rzn4ossir5lzhr) | ![liphy](/images/arts/Untitled105_20250910224253.png) A sequel to my outline art, featuring outline Liphyrus! He's transparent in this drawing and looking towards the sky, curious, with one paw on this chin, also blepping. The sky looks slightly blueish pinkish colored. Most of the drawing is grayscale, except for the sky. A tiny sonic life icon of Liphy is present on the top left, the number representing Liphyrus' current follower count on bsky as of the time this was drawn. |
+| Toadstool from PVZ2 | ![toadstool_pvz2](/images/arts/Untitled70_20250910132233.png) PVZ2 Premium Plant, Toadstool. The background has a green and blue gradient, along with the PVZ2 font showing the title of the character and my watermark. |
 | Nutlet by [@koolaruni.bsky,social](https://bsky.app/profile/did:plc:p65w2zebgm4262w2brtjqrzb) | ![nutlet](/images/arts/Untitled128_20250907221056.png) A basic background is doodled, slightly transparent to be gray. 2 Nutlets are drawn, one sleeping on the ground and another where Droobert's paws are presenting a Nutlet. He looks really happy being held! |
 | Kanopy by [@sonikkujam.bsky.social](https://bsky.app/profile/did:plc:272m7xsn2u3g5peijglcoms2) | ![kanopy](/images/arts/Untitled127_20250813182630.png) Kanopy standing on a floating transparent platform while holding his hammer, winking at the viewer. The background is supposedly space themed |
 | Mr. Triangle by ? and Simon by [@totallyappa.bsky.social](https://bsky.app/profile/did:plc:gb6372b3jwbi6ki4q4iqwrjd)| ![mr.triangle_n_simon](/images/arts/Untitled104_20250726220428.png) Grayscale Doodle of Mr. Triangle and Simon. |

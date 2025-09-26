@@ -16,6 +16,7 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/Messenger_creation_51A85626-2817-4E40-99BB-1CBC07CE68DC.png" alt="One of my classmates OCs hugging Droobert while he points to himself hugging my classmates oc back. With captions: 'urthr fluffiedt guy ive met!!!' droobert follows, 'me?', my classmates oc responds back with 'yes :]]'">}}
 {{< figure src="/images/fanarts/Droobert/Messenger_creation_268CCBDC-4D41-4B0D-B3A5-5662F2DDB848.png" alt="My classmate comforting me as Droobert himself due to my mood not being great the other day, thanks man <3">}}
 {{< figure src="/images/fanarts/Droobert/Untitled92.gif" alt="Quick animation doodle of him popping out of the corner">}}
+{{< figure src="/images/fanarts/Droobert/Messenger_creation_C6765786-2D02-4F81-BDB5-146AF641ED29.png" alt="Quick animation doodle of him popping out of the corner">}}
 
 <!--- reesasm (https://bsky.app/profile/did:plc:mp3zzxppd5f2flo5awgwk3jo) -->
 {{< figure src="/images/fanarts/Droobert/image-20.png" alt="Droobert looking at the viewer smiling with his mouth open, also posing">}}
@@ -39,7 +40,7 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/image-10.png" alt="Small Droobert sitting on a full size minecraft block">}}
 {{< figure src="/images/fanarts/Droobert/image-2.png" alt="Droobert if he had a skirt, colored and shaded">}}
 {{< figure src="/images/fanarts/Droobert/image-3.png" alt="Chibi Droobert">}}
-{{< figure src="/images/fanarts/Droobert/edoodles2297.png" alt="Droobert flying">}}
+{{< figure src="/images/fanarts/Droobert/edoodles2297.png" alt="Droobert and Mebi Aether on the gay boat on the sea. There are also faint hearts ontop of us two">}}
 
 <!--- blowfl -->
 {{< figure src="/images/fanarts/Droobert/0827251613.jpg" alt="Le School Doodles 2 by blowfl">}}
@@ -65,6 +66,8 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/IMG_0730.png" alt="Droobert standing up with one of his knees raised">}}
 {{< figure src="/images/fanarts/Droobert/IMG_0815.png" alt="Droobert blepping at the viewer and looking cute, appearing on the bottom right">}}
 {{< figure src="/images/fanarts/Droobert/IMG_0855.png" alt="Mebi patting Droobert, saying 'ur so squsihy..', 'everything will be ok..'">}}
+{{< figure src="/images/fanarts/Droobert/IMG_0882.png" alt="Deltarune Dark World form of Droobert and Tooki, a reference to Susie's 'Kris, where the hell are we??' Meme">}}
+{{< figure src="/images/fanarts/Droobert/IMG_0924.png" alt="DR00-BERT, a robot version of Droobert!">}}
 
 <!--- VoltthefOx (https://bsky.app/profile/voltdrawssomestuff.bsky.social) -->
 {{< figure src="/images/fanarts/Droobert/muppie54_art_trade.png" alt="Droobert winking at the viewer">}}

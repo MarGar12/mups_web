@@ -14,21 +14,14 @@ title = 'Stuff I host/manage :3'
 | [Syncthing](https://syncthing.net/) | https://sync.muppie.xyz |
 
 # Game Servers
-
-<!-- Will put back once I get a proper SRB2 host machine running
-# [US-E] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
-## IP: `mc.artifyber.xyz:5029` [Inactive]
-Groggy Gale (**MAPA3**)
-![Groggy Gale](/images/game/srb20050.png "Groggy Gale")
-
-Lilac Conservatory (**MAPAD**)
-![Lilac Conservatory](/images/game/srb20053.png "Lilac Conservatory")
-
-Short Robotnik Park Gameplay (**MAPAA**)
-![Gameplay](/images/game/srb20029.gif "A Short GIF of me playing Robotnik Park as Dummie in the server.")
+# [CAN] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
+## IP: `srb2.muppie.xyz`
+![First Level of SUGOI](/images/game/SRB2/SUGOI/srb20083.png)
+![Lilac Conservatory](/images/game/SRB2/SUGOI/srb20084.png)
+![Nightlight Ruins](/images/game/SRB2/SUGOI/srb20085.png)
 
 A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehrealsalt.2081/) from the [SRB2](https://srb2.org) community! The server features 21 different Lua and Character mods. The modlist may change from time to time.
---->
+
 # [US-E] Minecraft :: Articraft Season 7 (1.21.1)
 ## IP: `147.185.221.29:41834`
 ### Discord membership verification needed! Join my server [here!](/about#socials)
