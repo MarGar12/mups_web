@@ -15,7 +15,7 @@ title = 'Stuff I host/manage :3'
 
 # Game Servers
 # [CAN] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
-## IP: `srb2.muppie.xyz`
+## IP: `74.214.43.160:25568`
 ![First Level of SUGOI](/images/game/SRB2/SUGOI/srb20083.png)
 ![Lilac Conservatory](/images/game/SRB2/SUGOI/srb20084.png)
 ![Nightlight Ruins](/images/game/SRB2/SUGOI/srb20085.png)
@@ -23,7 +23,7 @@ title = 'Stuff I host/manage :3'
 A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehrealsalt.2081/) from the [SRB2](https://srb2.org) community! The server features 21 different Lua and Character mods. The modlist may change from time to time.
 
 # [US-E] Minecraft :: Articraft Season 7 (1.21.1)
-## IP: `147.185.221.29:41834`
+## IP: `74.214.43.160:25567`
 ### Discord membership verification needed! Join my server [here!](/about#socials)
 
 ![Spawn](/images/game/Minecraft/s7/2025-09-08_16.45.01.png)

@@ -6,6 +6,11 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| School exam thing :P | ![abcde](/images/arts/abcdefghijklmnopqrstuvwxyz.png) |
+| Roblox Noob | ![noob](/images/arts/noob.png) thing..... |
+| Lazy | ![lazy](/images/arts/lazy.png) Go Go Gadget Laziness! (Also has 4 due school homeworks) |
+| Krita mobile experience | ![fon](/images/arts/fon.png) take that ibisPaint! I got Krita now! |
+| First time using a drawing tablet | ![drawingtablet](/images/arts/drawingtablet.png) i got a drawing tablet today!! i love it.. |
 | I remember your Deltarunes... | ![deltarunes](/images/arts/Untitled131_20250914200058.png) If my OCs were in Deltarune |
 | Emerald (My take on Deltarune's Tenna's C3 whatever) | ![emeralds](/images/arts/Untitled129_20250912224016.png) Instead of it being a Zelda thing, its a whole Sonic like game|
 | Liphy by [@liphyrus.bsky.social](https://bsky.app/profile/did:plc:qoobr3xsn5rzn4ossir5lzhr) | ![liphy](/images/arts/Untitled105_20250910224253.png) A sequel to my outline art, featuring outline Liphyrus! He's transparent in this drawing and looking towards the sky, curious, with one paw on this chin, also blepping. The sky looks slightly blueish pinkish colored. Most of the drawing is grayscale, except for the sky. A tiny sonic life icon of Liphy is present on the top left, the number representing Liphyrus' current follower count on bsky as of the time this was drawn. |
