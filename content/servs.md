@@ -14,7 +14,7 @@ title = 'Stuff I host/manage :3'
 | [Syncthing](https://syncthing.net/) | https://sync.muppie.xyz |
 
 # Game Servers
-# [CAN] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
+# [US-E] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
 ## IP: `74.214.43.160:25568`
 ![First Level of SUGOI](/images/game/SRB2/SUGOI/srb20083.png)
 ![Lilac Conservatory](/images/game/SRB2/SUGOI/srb20084.png)

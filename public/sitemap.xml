@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>/</loc>
     <lastmod>2025-09-26T18:06:27+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-09-26T18:06:27+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/drawing-tablet/</loc>
+    <loc>/posts/drawing-tablet/</loc>
     <lastmod>2025-09-26T18:06:27+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/posts/firstpost/</loc>
+    <loc>/posts/firstpost/</loc>
     <lastmod>2025-08-03T17:34:02+08:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>/about/</loc>
   </url><url>
-    <loc>//localhost:1313/arts/</loc>
+    <loc>/arts/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/fanarts/</loc>
+    <loc>/fanarts/</loc>
   </url><url>
-    <loc>//localhost:1313/servs/</loc>
+    <loc>/servs/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
