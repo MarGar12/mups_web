@@ -25,7 +25,7 @@ Here are my socials! Feel free to follow me in any of these :3
 | Platform | Handle/Username | Status |
 | ---------- | --------------------------- | ------- |
 | [Bluesky](https://bsky.app) | [@muppie.xyz](https://bsky.app/profile/did:plc:ap2utyabfsnt7tkdnizsvdvw) | Active, Main place to post arts |
-| Discord Server (Articraft) | https://discord.gg/Af4FHzw5bx | Semi-Active, depends on activity, join here to play Articraft!
+| Discord Server | https://discord.gg/Af4FHzw5bx | Semi-Active, depends on activity, join here to play Muppiecraft!
 | [Fediverse (Main)](https://gay.muppie.xyz) | [@mups@gay.muppie.xyz](https://gay.muppie.xyz/@mups) | Semi-Active, Main place to post arts and yap |
 | [Fediverse (Alt)](https://the.gayest.dev) | [@mushe@the.gayest.dev](https://the.gayest.dev/@mushe) | Semi-Active, Alt for Fedi |
 | [Github](https://github.com) | [MarGar12](https://github.com/MarGar12) | Semi-Active |

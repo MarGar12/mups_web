@@ -6,6 +6,14 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| Link Affection | ![linkaffection](/images/arts/linkaffection.png) Links getting some appreciation :3 One is him getting patted, another being squished and the last with Prime wrapping his unknown texture scarf around Links |
+| [Wizard Tadzy](https://bsky.app/profile/did:plc:eqnpa4tza2ra4xgxur24pf53) | ![wizardtadzy](/images/arts/meetthewizardtadzy.png) Meet the TF2 mockup for Tadzy. Meet the Wizard!! A reference to when Tadzy has killed the cone from coneconeconecone.bsp. He is a robloxian furret in a wizard outfit, also holding a TF2 pistol |
+| Lopeween 2025 | ![lopeween2025](/images/arts/lopeween.png) My halloween 2025 drawing for a bunch of people! Specifically in the Anomalous Materials discord community. Lunascape, Links, Sierra, Lucas, Blab, Unfortunately Garfield, Chase, Funniman.exe, Niktoper, Anomidae (The Creator of Interloper), Tadzy, Prime Amazon, Umbrella Cat, SkyBunGhost, Maggiellynthomas, and ME!! In coneconeconecone.bsp. All characters ive drawn here have been furrified, all by me :33 |
+| Mae | ![mae](/images/arts/mae.png) Mae's character, drawn as a cat :P Her background is also the transgender flag |
+| Cat Lucas | ![lucaskitty](/images/arts/lucaskitty.png) Lucas Lopes' Character drawn as a cat |
+| [Gaq9 Trio](https://gaq9.com) | ![gaq9trio](/images/arts/gaq9.png) Lunascape, Sierra and Niktoper as furries! They 3 are moderators from the Anomalous Materials Discord :3 Lunascape is drawn as a shy cat (also presenting gaq9.com), Cat Sierra bleps to the viewer while holding up Nikfox (Niktoper) on his shoulders. The character on the gaq9.com window is Umbrella Cat, my take on the furrified version of Umbrella Man from Interloper |
+| Kitty Paige :: Paige from [Home Paige](https://www.kickstarter.com/projects/minimin/home-paige-chapter-1) | ![kittypaige](/images/arts/paigekitty.png) A furrified version of Paige from Home Paige. She is winking at the viewer with her paw on her left cheek |
+| Oversized pink striped blue sweater that makes you non chalant (Frisk) | ![friskbert](/images/arts/nonchalant.png) It's Droobert wearing an oversized purple striped blue sweater, he has the closed eyes face with an unbothered face. His soul is also shown on the bottom right of him. I got lazy doing the rest of the background lol |
 | School exam thing :P | ![abcde](/images/arts/abcdefghijklmnopqrstuvwxyz.png) |
 | Roblox Noob | ![noob](/images/arts/noob.png) thing..... |
 | Lazy | ![lazy](/images/arts/lazy.png) Go Go Gadget Laziness! (Also has 4 due school homeworks) |
