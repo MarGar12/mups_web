@@ -6,6 +6,7 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| Skateboard Sierra | ![shredera](/images/arts/shredera.png) Sierra holding a skateboard on its end. His alt color is also replaced with a sierra colored checkerboard pattern. His shadow is also his checkerboard pattern. |
 | Link Affection | ![linkaffection](/images/arts/linkaffection.png) Links getting some appreciation :3 One is him getting patted, another being squished and the last with Prime wrapping his unknown texture scarf around Links |
 | [Wizard Tadzy](https://bsky.app/profile/did:plc:eqnpa4tza2ra4xgxur24pf53) | ![wizardtadzy](/images/arts/meetthewizardtadzy.png) Meet the TF2 mockup for Tadzy. Meet the Wizard!! A reference to when Tadzy has killed the cone from coneconeconecone.bsp. He is a robloxian furret in a wizard outfit, also holding a TF2 pistol |
 | Lopeween 2025 | ![lopeween2025](/images/arts/lopeween.png) My halloween 2025 drawing for a bunch of people! Specifically in the Anomalous Materials discord community. Lunascape, Links, Sierra, Lucas, Blab, Unfortunately Garfield, Chase, Funniman.exe, Niktoper, Anomidae (The Creator of Interloper), Tadzy, Prime Amazon, Umbrella Cat, SkyBunGhost, Maggiellynthomas, and ME!! In coneconeconecone.bsp. All characters ive drawn here have been furrified, all by me :33 |
