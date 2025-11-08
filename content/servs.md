@@ -24,8 +24,8 @@ A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehr
 ?Will put back when I feel like it-->
 
 # [US-E] Minecraft :: Muppiecraft Vanilla (1.21.10)
-## IP: `mc.muppie.xyz:25560` (Bedrock Compatible)
-## Map IP: http://mc.muppie.xyz:25560
+## IP: `147.185.221.17:57633` (Bedrock Compatible)
+## Map IP: [http://147.185.221.20:15209](http://147.185.221.20:15209)
 ### Discord membership verification needed! Join my server [here!](/about#socials)
 
 A PaperMC server. Nothing much to say :P Theres no screenshots at the moment.
