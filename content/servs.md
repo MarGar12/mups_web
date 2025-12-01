@@ -15,7 +15,7 @@ title = 'Stuff I host/manage :3'
 
 # Game Servers
 <!---# [US-E] [SRB2](https://srb2.org) 24/7 [SUGOI](https://mb.srb2.org/addons/sugoi.6427/) (2.2.15)
-## IP: `74.214.43.160:25568`
+## IP: `mc.muppie.xyz:25561`
 ![First Level of SUGOI](/images/game/SRB2/SUGOI/srb20083.png)
 ![Lilac Conservatory](/images/game/SRB2/SUGOI/srb20084.png)
 ![Nightlight Ruins](/images/game/SRB2/SUGOI/srb20085.png)
@@ -24,11 +24,11 @@ A pretty fun big map pack made by [TehRealSalt](https://mb.srb2.org/members/tehr
 ?Will put back when I feel like it-->
 
 # [US-E] Minecraft :: Muppiecraft Vanilla (1.21.10)
-## IP: `147.185.221.17:57633` (Bedrock Compatible)
-## Map IP: [http://147.185.221.20:15209](http://147.185.221.20:15209)
+## IP: `mc.muppie.xyz:25560` (Bedrock Compatible)
+## Map IP: [http://mc.muppie.xyz:25561](http://mc.muppie.xyz:25561)
 ### Discord membership verification needed! Join my server [here!](/about#socials)
 
-A PaperMC server. Nothing much to say :P Theres no screenshots at the moment.
+A PaperMC server. Using the original map seed of Articraft Season 1. Theres no screenshots at the moment.
 
 # [US-E] Minecraft :: Muppiecraft Modded (1.21.1)
 ## IP: `mc.muppie.xyz:25567`

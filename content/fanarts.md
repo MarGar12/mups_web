@@ -82,6 +82,9 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/Screenshot_2025-05-27-16-42-57-253_com.miui.creation.png" alt="Droobert and mini Droobert">}}
 {{< figure src="/images/fanarts/Droobert/Screenshot_2025-06-03-17-08-17-018_com.miui.creation.png" alt="Droobert and Bee Mel sitting together happily">}}
 
+
+<!-- wbr0 -->
+{{< figure src="/images/fanarts/Droobert/Untitled4517_20251106185643.png" alt="Gumball Furby Droobert">}}
 {{</ gallery >}}
 
 People who have drawn me: 

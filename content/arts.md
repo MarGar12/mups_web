@@ -6,6 +6,12 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| Doodleboard 2 | ![doodleboard2](/images/arts/support.png) A buncha characters ive doodled, one features Ralsei, someones OC in my school, yada yada |
+| Bwabert Wallpaper | ![bwabwabwa](/images/arts/bwabertwallpaper.png) Blobert bwaing wallpaper based on Doodleboard 1 |
+| Doodleboard 1 | ![doodleboard1](/images/arts/bwaws.png) Blobert and Lucas doodle. Bwa! |
+| Australian Links | ![aussielinks](/images/arts/spacelinks.png) Giant Links peeking at the American continent from Oceania (Australia) |
+| [Turkey Mode](https://wetdry.world/@lunascaped/109362670981440503) | ![Turkey Mode](/images/arts/turkey.png) Featuring Anomidae and Lunascape. Anomi asks how to install turkey mode on his NVIDIA GTX 1080 Ti, and Lunascape shouts "FUCK TURKEY MODE!!" in reference to her most popular Fediverse post.
+| Brush Test 2 | ![brushtest2](/images/arts/scaredlucas.png) New brush jumpscare, this features Lucas getting scared from Sierra meowing. He runs away screaming like a cat afterwards |
 | Skateboard Sierra | ![shredera](/images/arts/shredera.png) Sierra holding a skateboard on its end. His alt color is also replaced with a sierra colored checkerboard pattern. His shadow is also his checkerboard pattern. |
 | Link Affection | ![linkaffection](/images/arts/linkaffection.png) Links getting some appreciation :3 One is him getting patted, another being squished and the last with Prime wrapping his unknown texture scarf around Links |
 | [Wizard Tadzy](https://bsky.app/profile/did:plc:eqnpa4tza2ra4xgxur24pf53) | ![wizardtadzy](/images/arts/meetthewizardtadzy.png) Meet the TF2 mockup for Tadzy. Meet the Wizard!! A reference to when Tadzy has killed the cone from coneconeconecone.bsp. He is a robloxian furret in a wizard outfit, also holding a TF2 pistol |
