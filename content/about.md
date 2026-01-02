@@ -1,8 +1,6 @@
 +++
 draft = false
 title = 'About Me'
-cover = "/images/main/Untitled6_20250705111846.png"
-coverCaption = "Droobert Silligan, a Gay Femboy Bee! Made by me >w<"
 +++
 # My name's Mups! (He/Him)
 
@@ -24,15 +22,16 @@ Sensitive Topics (depends, ask me), Generative AI, Rude/Harsh/Vague Jokes, Gore 
 Here are my socials! Feel free to follow me in any of these :3
 | Platform | Handle/Username | Status |
 | ---------- | --------------------------- | ------- |
-| [Bluesky](https://bsky.app) | [@muppie.xyz](https://bsky.app/profile/did:plc:ap2utyabfsnt7tkdnizsvdvw) | Active, Main place to post arts |
+| [Bluesky](https://bsky.app) | [@muppie.xyz](https://bsky.app/profile/did:plc:ap2utyabfsnt7tkdnizsvdvw) | Active, Bridged Fedi/Bluesky |
 | Discord Server | https://discord.gg/Af4FHzw5bx | Depends on activity, join here to play Muppiecraft!
-| [Fediverse (Main)](https://gay.muppie.xyz) | [@mups@gay.muppie.xyz](https://gay.muppie.xyz/@mups) | Semi-Active, Main place to post arts and yap |
-| [Fediverse (Alt)](https://the.gayest.dev) | [@mushe@the.gayest.dev](https://the.gayest.dev/@mushe) | Barely-Active, Alt for Fedi |
+| [Fediverse (My Hosted Instance)](https://gay.muppie.xyz) | [@mups@gay.muppie.xyz](https://gay.muppie.xyz/@mups) | Semi-Active, Main place to post arts and yap |
+| [Fediverse (Main)](https://waf.moe) | [@mups@waf.moe](https://waf.moe/blog/mups) | Active, Bridged Fedi/Bluesky |
 | [Github](https://github.com) | [MarGar12](https://github.com/MarGar12) | Semi-Active |
 | [Roblox](https://www.roblox.com) | [@Mups_58](https://www.roblox.com/users/7136128116/profile) | Barely-Active, I play Roblox from time to time
 | [SRB2 Gitlab](https://git.do.srb2.org) | [@mushe](https://git.do.srb2.org/mushe) | Barely-Active, only used for SRB2 purposes |
 | [Steam](https://steamcommunity.com) | [Mups :3](https://steamcommunity.com/profiles/76561199089846045/) | Barely-Active, I use this from time to time |
 | [Twitter/X](https://x.com) | [@mushe54](https://x.com/mushe54) | Inactive, in favor for Bluesky |
+| [Unvale](https://unvale.io) | [@muppie](https://unvale.io/muppie) | Semi-Active, another platform for my arts! |
 | [YouTube](https://www.youtube.com) | [mushe58](https://www.youtube.com/channel/UCyFNLmPw5MS3VLLm-WIkdfw) | Inactive, Unknown when ill make content again |
 
 # Contacts

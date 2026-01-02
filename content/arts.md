@@ -6,6 +6,19 @@ title = 'Arts'
 
 | Info | Art |
 | ----- | ---- |
+| Lopemas 2025 + Elemental 2026 | ![lope1](/images/arts/lopemas.png)![lope2](/images/arts/lopemas2.png) An absolutely massive art thing ive done after not being motivated for multiple days. Originally it was for one community, that being the Anomalous Materials Discord, but then eventually I added in the Element Cattos community, nearing the end of 2025. Absolutely smashing my record for the amount of characters I have drawn in an art thingy. Right around ~55 characters! My previous recrd by the time I made this was around 16 characters. |
+| Copper Catto | ![cucattp](/images/arts/IMG_0209.png) Copper Element Catto! I got an interest in [Element Cattos](https://oberorka.itch.io/elementcattos) by the time I drew this |
+| Tooki Cover | ![tokscover](/images/arts/IMG_0203.png) Tooki Cover for [Unvale](https://unvale.io) |
+| Droobert Cover | ![dobscover](/images/arts/IMG_0192.png) Droobert Cover for [Unvale](https://unvale.io) |
+| Merry Chungus 2025 | ![smissmas](/images/arts/IMG_0185.png) Merry 2025mas! A b&w drawing of me posing as the guy from I Wanna Be The Guy! A small text beside me says "I WANNA BE THE BEE" |
+| Flowa Pot | ![flogs](/images/arts/IMG_0181.png) Just an ordinary flower pot that I have doodled for my aunt! Teehee |
+| Marre Kahbee! | ![keebe](/images/arts/IMG_0172.png) Droobert drawn as a Kirby! The caption says Marre Kahbee! Spelled as how Kirby would pronounce it |
+| [jb](https://waf.moe/blog/jb) | ![jb](/images/arts/jb_bod.png) It's jb as a fox! |
+| Sierra Tahoe 26 | ![tahoe26](/images/arts/IMG_0128.png) Cat Sierra drawn with a brush that looks like Liquid Glass (macOS 26 Tahoe) |
+| Rando Cattify Doodles | ![citys](/images/arts/IMG_0106.png) Stage Stander and PlaneJane as Anthromorphic Cats! |
+| Weej the Scottish Cat | ![scots](/images/arts/IMG_0100.png) Weej's Roblox avatar drawn as a grumpy lil scottish cat  |
+| Cubemaps | ![cc2](/images/arts/IMG_0091.png) Source Engine cubemap doodles :3 I gave em lil ears too! The bottom left one is it nomming Anomidae|
+| Create Pro 2 | ![proc2](/images/arts/IMG_0079.png) A buncha characters ive doodled, lazy to specify who they are this time sorgyy |
 | Doodleboard 2 | ![doodleboard2](/images/arts/support.png) A buncha characters ive doodled, one features Ralsei, someones OC in my school, yada yada |
 | Bwabert Wallpaper | ![bwabwabwa](/images/arts/bwabertwallpaper.png) Blobert bwaing wallpaper based on Doodleboard 1 |
 | Doodleboard 1 | ![doodleboard1](/images/arts/bwaws.png) Blobert and Lucas doodle. Bwa! |

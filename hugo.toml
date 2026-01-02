@@ -119,11 +119,6 @@ pagination.pagerSize = 5
         identifier = "source"
         name = "Page Source Code"
         url = "https://github.com/MarGar12/mups_web"
-      # [[languages.en.menu.main]]
-      #  identifier = "fanarts"
-      #  name = "Fan Arts"
-      #  url = "/fanarts"
-      # WIP, will finish later
 
 [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,

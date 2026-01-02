@@ -41,6 +41,7 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/image-2.png" alt="Droobert if he had a skirt, colored and shaded">}}
 {{< figure src="/images/fanarts/Droobert/image-3.png" alt="Chibi Droobert">}}
 {{< figure src="/images/fanarts/Droobert/edoodles2297.png" alt="Droobert and Mebi Aether on the gay boat on the sea. There are also faint hearts ontop of us two">}}
+{{< figure src="/images/fanarts/Droobert/image82.png" alt="Droobert New Year doodle of him holding a bucket">}}
 
 <!--- blowfl -->
 {{< figure src="/images/fanarts/Droobert/0827251613.jpg" alt="Le School Doodles 2 by blowfl">}}
@@ -82,9 +83,20 @@ Credits are in the code but a list of people who have drawn me will be listed on
 {{< figure src="/images/fanarts/Droobert/Screenshot_2025-05-27-16-42-57-253_com.miui.creation.png" alt="Droobert and mini Droobert">}}
 {{< figure src="/images/fanarts/Droobert/Screenshot_2025-06-03-17-08-17-018_com.miui.creation.png" alt="Droobert and Bee Mel sitting together happily">}}
 
-
 <!-- wbr0 -->
 {{< figure src="/images/fanarts/Droobert/Untitled4517_20251106185643.png" alt="Gumball Furby Droobert">}}
+{{< figure src="/images/fanarts/Droobert/Untitled117_20251214123744.png" alt="Droobert Bee Butterfly hybrid! whatever that is....">}}
+{{< figure src="/images/fanarts/Droobert/Untitled39_20251228213844.png" alt="The Muppiecraft SMP logo">}}
+
+<!-- TGD -->
+{{< figure src="/images/fanarts/Droobert/Untitled362_20251222231049.png" alt="Birthday Drawing of me blepping with an oversized purple striped sweater">}}
+
+<!-- Harry. -->
+{{< figure src="/images/fanarts/Droobert/IMG_9600.png" alt="Droobert roaming around some dark forest">}}
+
+<!-- Robofox -->
+{{< figure src="/images/fanarts/Droobert/modelo.gif" alt="Low Poly Droobert Model spin!">}}
+
 {{</ gallery >}}
 
 People who have drawn me: 
@@ -99,3 +111,6 @@ Sierra |
 [Artifyber](https://bsky.app/profile/artifyber.xyz) |
 [TV Enthusiast](https://bsky.app/profile/sillytventhusiast.bsky.social) |
 [Tropie](https://bsky.app/profile/did:plc:bnyd2mpexdpydrd7fcya3yk7) |
+[Harry.](https://bsky.app/profile/did:plc:b3yy4y7kdejuqrcah6aqige7) |
+[TGD](https://bsky.app/profile/did:plc:j2zo4zaqlmbmm4jmw6br4i25) |
+[Robofox](https://bsky.app/profile/did:plc:clhbyeeuzibl5rne3tx443xj) |
