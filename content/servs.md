@@ -7,11 +7,8 @@ title = 'Stuff I host/manage :3'
 ---
 | Service | Link |
 | --------- | ---- |
-| [Bluesky PDS](https://github.com/bluesky-social/pds) (Change the BSky Acc Provider)| https://sky.muppie.xyz | 
-| [CatAsk](https://catask.mystie.dev/) | https://ask.muppie.xyz |
-| [HFS](https://rejetto.com/hfs/) (File Server) | https://files.muppie.xyz | 
-| [Sharkey](https://activitypub.software/TransFem-org/Sharkey/) (Fediverse) | https://gay.muppie.xyz |
-| [Syncthing](https://syncthing.net/) | https://sync.muppie.xyz |
+| [CatAsk](https://catask.org/) | https://ask.muppie.xyz |
+| [Copyparty](https://github.com/9001/copyparty) (File Server) | https://files.muppie.xyz |
 | [Vaultwarden](https://github.com/dani-garcia/vaultwarden) | https://vault.muppie.xyz |
 
 # Game Servers

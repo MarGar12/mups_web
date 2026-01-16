@@ -2,12 +2,22 @@
 draft = false
 title = 'Arts'
 +++
-# This is where I showcase my arts and stuff! (Not all of them tho) You may get the chance to get drawn if you have an oc that I think is simple enough and is drawable for me :3c You can find all of my arts in my Bluesky in [socials](/about#socials).
+# This is where I showcase my arts and stuff! (Not all of them tho) You can find all of my arts in my Bluesky or Fediverse account in [socials](/about#socials)!
 
+You may get the chance to get drawn if you have an oc that I think is simple enough and is drawable for me :3c 
+If you want to see my commissioned arts, go [here](/comms/#commissioned-arts)
+
+If you also want to use my arts, please credit me :3 
 | Info | Art |
 | ----- | ---- |
+| silly duo :: both are on discord, without the capitals and the & symbol | ![silyduo](/images/arts/IMG_0359.png) Oxygendox and Luke Drop drawn with a simple gray background, along with a little gray gradient. They're both blepping at the viewer |
+| Beeptastic! :: saternenjoyer2 on Discord | ![hpapysignal](/images/arts/IMG_0330.png) A robot fella! :3c
+| Cobalt-61 Isotope :: [Elemental Cattos](https://www.tumblr.com/elementcattos) OC | ![co61_1](/images/arts/IMG_0238.png)![co61_2](/images/arts/IMG_0313.png)![co61_3](/images/arts/IMG_0319.png) Funny radioactive shy french gal who I made for my school animation project | 
+| HeH :: from [Elemental Cattos](https://www.tumblr.com/elementcattos) | ![heh](/images/arts/IMG_0309.png) Hydrogen happily hugging Helium, along with a purpley starry background. There's also visible colored gas around both of them. I redrawn an image with this! 
+| Gunpownder Catto :: [Elemental Cattos](https://www.tumblr.com/elementcattos) OC | ![gc](/images/arts/IMG_0298.png) Arrr! Pirate Gunpowder Catto, drawn with a pastel brush. Don't know who owns this design tho sorry :c|
+| Hydrogen & Proton Cattos :: from [Elemental Cattos](https://www.tumblr.com/elementcattos) | ![rootprot](/images/arts/IMG_0292.png) Hydrogen and Proton catto doodles :3 |
 | Lopemas 2025 + Elemental 2026 | ![lope1](/images/arts/lopemas.png)![lope2](/images/arts/lopemas2.png) An absolutely massive art thing ive done after not being motivated for multiple days. Originally it was for one community, that being the Anomalous Materials Discord, but then eventually I added in the Element Cattos community, nearing the end of 2025. Absolutely smashing my record for the amount of characters I have drawn in an art thingy. Right around ~55 characters! My previous recrd by the time I made this was around 16 characters. |
-| Copper Catto | ![cucattp](/images/arts/IMG_0209.png) Copper Element Catto! I got an interest in [Element Cattos](https://oberorka.itch.io/elementcattos) by the time I drew this |
+| Copper Catto :: from [Elemental Cattos](https://www.tumblr.com/elementcattos) | ![cucattp](/images/arts/IMG_0209.png) Copper Element Catto! I got an interest in [Element Cattos](https://www.tumblr.com/elementcattos) by the time I drew this |
 | Tooki Cover | ![tokscover](/images/arts/IMG_0203.png) Tooki Cover for [Unvale](https://unvale.io) |
 | Droobert Cover | ![dobscover](/images/arts/IMG_0192.png) Droobert Cover for [Unvale](https://unvale.io) |
 | Merry Chungus 2025 | ![smissmas](/images/arts/IMG_0185.png) Merry 2025mas! A b&w drawing of me posing as the guy from I Wanna Be The Guy! A small text beside me says "I WANNA BE THE BEE" |
@@ -48,7 +58,7 @@ title = 'Arts'
 | Mr. Triangle by ? and Simon by [@totallyappa.bsky.social](https://bsky.app/profile/did:plc:gb6372b3jwbi6ki4q4iqwrjd)| ![mr.triangle_n_simon](/images/arts/Untitled104_20250726220428.png) Grayscale Doodle of Mr. Triangle and Simon. |
 | Dummie the Testing Dummy by [@fav33.bsky.social](https://bsky.app/profile/did:plc:h6hxorltyszwa372xrry4eg2) | ![Dummie](/images/arts/Untitled87_20250719214304.png) Dummie shyly looking at the viewer sitting on ice. He is also shivering a little bit due to the icy environment. |
 | blue.. :: Pocky by [@bun0nthemoon.bsky.social](https://bsky.app/profile/did:plc:wdcja7iqtsuvzegi3sib4lvu) | ![Pocky](/images/arts/Untitled1_20250621233432.png) Pocky is sitting in front of some gray pillar. It's a dark blue open field world thing that I just felt like doing :p |
-| Funny Doods :: (Outeki by [@outeki.bsky.social](https://bsky.app/profile/did:plc:a3lqr74f3lbf74fgj3gsxuaq), Jacadamia by [@jacadamia.com](https://bsky.app/profile/did:plc:s6lk74alqvmrcpugnqzzdkcn) and playte(discord) | ![funnydoods](/images/arts/Untitled95_20250613140333.png) Funny doodle featuring Jacadamia, Outeki and Plate (used to be one of my discord members) |
+| Funny Doods :: Outeki by [@outeki.bsky.social](https://bsky.app/profile/did:plc:a3lqr74f3lbf74fgj3gsxuaq), Jacadamia by [@jacadamia.com](https://bsky.app/profile/did:plc:s6lk74alqvmrcpugnqzzdkcn) and playte(discord) | ![funnydoods](/images/arts/Untitled95_20250613140333.png) Funny doodle featuring Jacadamia, Outeki and Plate (used to be one of my discord members) |
 | doodle test :: [@stevinrith.bsky.social](https://bsky.app/profile/did:plc:3rpdd2sap3x6vjyryrb7wjz3) | ![stevinrith](/images/arts/Untitled93_20250606110751.png) Stevinrith's Discord pfp redrawn by me |
 | tv person,,bshsj i see purple, i draw purple!!1 :: ‪[@nexusnb.bsky.social‬](https://bsky.app/profile/nexusnb.bsky.social) | ![nexustv](/images/arts/Untitled125_20250415135153.png) Non-Binary Nexus TV |
 | mof kity :3 :: Aqua the Catmoth and Archie the Tailmaw by [@voltthefox.bsky.social](https://bsky.app/profile/did:plc:limhxu46oklseaycv4ce4e4s) | ![aquaandarchie](/images/arts/Untitled124_20250411152233.png) Aqua the catmoth and Archie the tailmaw drawn together. He's literally -3- The background is a pixelated 2 shaded blue |

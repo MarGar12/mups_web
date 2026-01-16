@@ -51,8 +51,16 @@
     <img src="https://nekoweb.org/assets/buttons/button6.gif">
   </a>
 </div>
-<br>
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Donate Me!', '#E575F8', 'N4N8103E5T');kofiwidget2.draw();</script>
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('mupsie68', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Gimem moneii',
+    'floating-chat.donateButton.background-color': '#E575F8',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
+
 <style>
 .snap {
   display: flex; /* or inline-flex */
